@@ -1,0 +1,10 @@
+/* mypages/index/index.wxss */
+
+.item{
+  width: 100px;
+  height: 100px;
+  float: left;
+  background: #eeeeee;
+  margin: 2px;
+  border: 1px solid red;
+}

@@ -1,0 +1,14 @@
+<view class='box' wx:if="{{bShow}}">
+  <view class='item'>1</view>
+  <view class='item'>2</view>
+  <view class='item'>3</view>
+</view>
+<button bindtap='change' type='primary'>点击切换</button>
+
+<view>
+  <view wx:for="{{arr}}" wx:key='index'>{{item}}  + {{index}}</view>
+</view>
+
+<view>
+  <view wx:for="{{arrData}}" wx:key="index">{{item.name}}{{item.age}}</view>
+</view>
