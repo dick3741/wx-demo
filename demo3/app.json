@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "mypages/index/index",
+    "mypages/test/test"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#09ba07",
+    "navigationBarTextStyle": "#fff",
+    "navigationBarTitleText": "牛刀小试",
+    "backgroundColor": "#fbf9fe",
+    "backgroundTextStyle": "light"
+  }
+}
